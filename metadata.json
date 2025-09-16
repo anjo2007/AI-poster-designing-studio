@@ -1,0 +1,7 @@
+{
+  "name": "Copy of AI Poster Design Studio",
+  "description": "Craft stunning, personalized posters effortlessly. Upload inspiration, define needs, and let our AI design, and edit a masterpiece for you using voice or text.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
